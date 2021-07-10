@@ -1,0 +1,16 @@
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\bin\Debug\Fishing_Game.exe.config
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\bin\Debug\Fishing_Game.exe
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\bin\Debug\Fishing_Game.pdb
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.csprojAssemblyReference.cache
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\MainWindow.g.cs
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\App.g.cs
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game_Content.g.cs
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game_MarkupCompile.cache
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game_MarkupCompile.lref
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\MainWindow.baml
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.g.resources
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.Properties.Resources.resources
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.csproj.GenerateResource.cache
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.csproj.CoreCompileInputs.cache
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.exe
+C:\Users\Bilgi\source\repos\Fishing_Game\Fishing_Game\obj\Debug\Fishing_Game.pdb
